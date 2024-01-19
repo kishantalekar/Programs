@@ -117,3 +117,4 @@ Integral of 2x^2 + 3x + 1 from 1 to 2:  10.16667
 > 
 > # Calculate the derivative of f(x) with respect to x
 > derivative <- Deriv(f, "x")
+
